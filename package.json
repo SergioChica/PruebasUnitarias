@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "pruebasunitarias",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
